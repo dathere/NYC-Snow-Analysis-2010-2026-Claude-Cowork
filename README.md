@@ -33,7 +33,7 @@ And 34 minutes later, we get a comprehensive analysis of NYC's snow response ove
 * [NYC_Snow_Response_Analysis.docx](./reports/NYC_Snow_Response_Analysis.docx) ([pdf](./reports/NYC_Snow_Response_Analysis-docx.pdf))
 * [NYC_Snow_Response_Briefing.pptx](./reports/NYC_Snow_Response_Briefing.pptx) ([pdf](./reports/NYC_Snow_Response_Briefing-slides.pdf))
 
-The full transcript of the Cowork session is available [here](./NYC%20Snow%20Response%20Analysis%20-%20Cowork%20Transcript.md).
+The full transcript of the Cowork session is available [here](./NYC%20Snow%20Analysis%20-%20Cowork%20Transcript.md).
 
 ## Follow-up Question
 
