@@ -208,15 +208,15 @@ The analysis integrates six data sources (NYC 311 at 42.8M records, Housing DB a
 
 ### Connectors
 
-* qsv
-* mcp-census-api
-* open-meteo
-* Web search
+* [qsv](https://github.com/dathere/qsv)
+* [mcp-census-api](https://github.com/uscensusbureau/us-census-bureau-data-api-mcp)
+* [open-meteo](https://github.com/cmer81/open-meteo-mcp)
+* Web search (built-in)
 
 ### Skills
 
-* docx
-* pptx
+* docx (built-in)
+* pptx (built-in)
 * [genai-disclaimer](./Custom%20Claude%20Skill/genai-disclaimer/SKILL.html) (custom skill)
 
 Context
