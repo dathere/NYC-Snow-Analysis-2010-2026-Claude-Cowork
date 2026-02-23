@@ -61,4 +61,5 @@ IMHO, if ["computers are the bicycle for the mind"](https://www.themarginalian.o
 ---
 
 Github Repo: [https://github.com/dathere/NYC-Snow-Analysis-2010-2026-Claude-Cowork](https://github.com/dathere/NYC-Snow-Analysis-2010-2026-Claude-Cowork)<br>
-Github Pages: [https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/](https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/)
+Github Pages: [https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/](https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/)<br>
+LinkedIn Post: [https://www.linkedin.com/posts/joelnatividad_nyc-snow-analysis-2010-2026-with-claude-cowork-activity-7431791185297567744-RQVm/](https://www.linkedin.com/posts/joelnatividad_nyc-snow-analysis-2010-2026-with-claude-cowork-activity-7431791185297567744-RQVm/)
