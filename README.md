@@ -1,4 +1,6 @@
-# NYC Snow Response Analysis 2010-2026 with Claude Cowork
+# NYC Snow Analysis 2010-2026 with Claude Cowork
+
+![NYC Snow Response Analysis](./images/snow-related-311-complaints-2010-26.png)
 
 What do you get when you unleash [Claude Cowork](https://claude.com/product/cowork) on:
 
