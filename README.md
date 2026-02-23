@@ -14,8 +14,6 @@ And install in Cowork:
 
 ## The Prompt
 
-You get to ask questions like this:
-
 ```
 Can you analyze the NYC 311 file as well as the Housing Database (consult the
 Data Dictionary PDF) and retrieve from the web all the snowstorms in NYC
@@ -27,7 +25,7 @@ interesting insights that can be shared with the current administration?
 
 ## The Results
 
-And 34 minutes later, we get a comprehensive analysis of NYC's snow response over the last 16 years, complete with data visualizations, insights, and recommendations for future improvements:
+34 minutes later, we get a comprehensive analysis of NYC's snow response over the last 16 years, complete with data visualizations, insights, and recommendations for future improvements:
 
 * [NYC_Snow_Response_Analysis.html](./reports/NYC_Snow_Response_Analysis.html)
 * [NYC_Snow_Response_Analysis.docx](./reports/NYC_Snow_Response_Analysis.docx) ([pdf](./reports/NYC_Snow_Response_Analysis-docx.pdf))
