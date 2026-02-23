@@ -217,7 +217,7 @@ The analysis integrates six data sources (NYC 311 at 42.8M records, Housing DB a
 
 * docx
 * pptx
-* [genai-disclaimer](./Custom%20Claude%20Skill/genai-disclaimer/SKILL.md) (custom skill)
+* [genai-disclaimer](./Custom%20Claude%20Skill/genai-disclaimer/SKILL.html) (custom skill)
 
 Context
 This is the transcript of a coworking session with Claude, where we analyzed the NYC 311 dataset and Housing Database to study the city's response to snowstorms from 2010 to 2026. We retrieved snowstorm data, historical weather details, news coverage, and enriched it with Census data to generate insights for the current administration. The final deliverables include an interactive HTML report, a Word document, and a PowerPoint briefing deck.
