@@ -49,13 +49,13 @@ using both datasets, leveraging historical weather data and the Census?
 
 ## Conclusion
 
-This experiment demonstrates the power of Claude Cowork to handle large datasets, integrate multiple data sources, and produce comprehensive analyses and deliverables in a fraction of the time it would take a human analyst. With the right prompt and access to relevant data, Cowork can generate insights that can inform policy decisions and improve public services.
+This experiment demonstrates the power of Claude Cowork to handle large datasets, integrate multiple data sources, and produce comprehensive analyses and deliverables in a fraction of the time it would take a human analyst. With the right prompt, [purpose-built tooling for accelerated data processing](https://github.com/dathere/qsv?tab=readme-ov-file#qsv-blazing-fast-data-wrangling-toolkit), and access to [relevant](https://open-meteo.com/) [data](https://www.census.gov/data/developers/guidance/api-user-guide.html), Cowork can generate insights that can inform policy decisions and improve public services.
 
-BUT, how can we be sure the insights are valid? How can we verify the accuracy of the analysis and the quality of the deliverables? This is where human judgment and expertise still play a crucial role. Cowork can do the heavy lifting of data processing and initial analysis, but humans need to review, validate, and interpret the results to ensure they are actionable and meaningful.
+BUT, how can we be sure the insights are valid? How can we verify the accuracy of the analysis and the quality of the deliverables? This is where human judgment and expertise still play a crucial role. Cowork can do the heavy lifting of data processing and initial analysis, but _**humans** still need to review, validate, and interpret the results to ensure they are actionable and meaningful_.
 
 That's why we call it **_"Accelerated Civic Intelligence (ACI)"_** - it's not about replacing human analysts, but about augmenting their capabilities and accelerating the process of generating insights that can drive positive change in our cities.
 
-If "computers are the bicycle for the mind", then AI tools like Claude Cowork are more like an Iron Man suit: they dramatically extend our reach, strength, and speed. But even the most advanced suit still needs a capable pilot. The technology can amplify our abilities — it’s human judgment, experience, and civic responsibility that determine where we go and why.
+IMHO, if "[computers are the bicycle for the mind](https://www.themarginalian.org/2011/12/21/steve-jobs-bicycle-for-the-mind-1990/)", then AI tools like Claude Cowork are more like an Iron Man suit: they dramatically extend our reach, strength, and speed. But even the most advanced suit still needs a capable pilot. The technology can amplify our abilities — it’s human judgment, experience, and civic responsibility that determine where we go and why.
 
 ---
 
