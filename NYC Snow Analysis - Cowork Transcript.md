@@ -163,102 +163,61 @@ The analysis integrates six data sources (NYC 311 at 42.8M records, Housing DB a
 
 ### testmcp2 - folder name
 
-NYC_Snow_Response_Briefing.pptx
-NYC_Snow_Response_Analysis.docx
-housing_boro_nta_freq.csv
-HousingDB_post2010_inactive_included.freq.csv.data.jsonl
-HousingDB_post2010_inactive_included.parquet
-HousingDB_post2010_inactive_included.csv.pschema.json
-HousingDB_post2010_inactive_included.stats.csv.json
-HousingDB_post2010_inactive_included.stats.csv.data.jsonl
-HousingDB_post2010_inactive_included.stats.csv
-311_Service_Requests_from_2010_to_2026023.csv.pschema.json
-311_Service_Requests_from_2010_to_2026023.stats.csv
-311_Service_Requests_from_2010_to_2026023.freq.csv.data.jsonl
-311_Service_Requests_from_2010_to_2026023.stats.csv.json
-HousingDB_post2010_inactive_included.csv.idx
-311_Service_Requests_from_2010_to_2026023.csv.idx
-Housing_Database_Data_Dictionary.pdf
-311_Service_Requests_from_2010_to_2026023.stats.csv.data.jsonl
-NYC_Snow_Response_Analysis.html
+* NYC_Snow_Response_Briefing.pptx
+* NYC_Snow_Response_Analysis.docx
+* housing_boro_nta_freq.csv
+* HousingDB_post2010_inactive_included.freq.csv.data.jsonl
+* HousingDB_post2010_inactive_included.parquet
+* HousingDB_post2010_inactive_included.csv.pschema.json
+* HousingDB_post2010_inactive_included.stats.csv.json
+* HousingDB_post2010_inactive_included.stats.csv.data.jsonl
+* HousingDB_post2010_inactive_included.stats.csv
+* 311_Service_Requests_from_2010_to_2026023.csv.pschema.json
+* 311_Service_Requests_from_2010_to_2026023.stats.csv
+* 311_Service_Requests_from_2010_to_2026023.freq.csv.data.jsonl
+* 311_Service_Requests_from_2010_to_2026023.stats.csv.json
+* HousingDB_post2010_inactive_included.csv.idx
+* 311_Service_Requests_from_2010_to_2026023.csv.idx
+* Housing_Database_Data_Dictionary.pdf
+* 311_Service_Requests_from_2010_to_2026023.stats.csv.data.jsonl
+* NYC_Snow_Response_Analysis.html
 
 ### Scratchpad
 
-NYC_Snow_Response_Briefing.pptx
-created
-NYC_Snow_Response_Analysis.docx
-created
-housing_boro_nta_freq.csv
-created
-HousingDB_post2010_inactive_included.freq.csv.data.jsonl
-created
-HousingDB_post2010_inactive_included.parquet
-created
-HousingDB_post2010_inactive_included.csv.pschema.json
-created
-HousingDB_post2010_inactive_included.stats.csv.json
-created
-HousingDB_post2010_inactive_included.stats.csv.data.jsonl
-created
-HousingDB_post2010_inactive_included.stats.csv
-created
-311_Service_Requests_from_2010_to_2026023.csv.pschema.json
-created
-311_Service_Requests_from_2010_to_2026023.stats.csv
-created
-311_Service_Requests_from_2010_to_2026023.freq.csv.data.jsonl
-created
-311_Service_Requests_from_2010_to_2026023.stats.csv.json
-created
-HousingDB_post2010_inactive_included.csv.idx
-created
-311_Service_Requests_from_2010_to_2026023.csv.idx
-created
-Housing_Database_Data_Dictionary.pdf
-viewed
-311_Service_Requests_from_2010_to_2026023.stats.csv.data.jsonl
-viewed
-pptxgenjs.md
-viewed
-NYC_Snow_Response_Analysis.html
-wrote to
-create_docx.js
-wrote to
-create_pptx.js
-wrote to
-pptx-slide-01.jpg
-viewed
-pptx-slide-02.jpg
-viewed
-pptx-slide-03.jpg
-viewed
-pptx-slide-04.jpg
-viewed
-pptx-slide-05.jpg
-viewed
-pptx-slide-06.jpg
-viewed
-pptx-slide-07.jpg
-viewed
-pptx-slide-08.jpg
-viewed
-pptx-slide-09.jpg
-viewed
-pptx-slide-10.jpg
-viewed
+* NYC_Snow_Response_Briefing.pptx
+* NYC_Snow_Response_Analysis.docx
+* housing_boro_nta_freq.csv
+* HousingDB_post2010_inactive_included.freq.csv.data.jsonl
+* HousingDB_post2010_inactive_included.parquet
+* HousingDB_post2010_inactive_included.csv.pschema.json
+* HousingDB_post2010_inactive_included.stats.csv.json
+* HousingDB_post2010_inactive_included.stats.csv.data.jsonl
+* HousingDB_post2010_inactive_included.stats.csv
+* 311_Service_Requests_from_2010_to_2026023.csv.pschema.json
+* 311_Service_Requests_from_2010_to_2026023.stats.csv
+* 311_Service_Requests_from_2010_to_2026023.freq.csv.data.jsonl
+* 311_Service_Requests_from_2010_to_2026023.stats.csv.json
+* HousingDB_post2010_inactive_included.csv.idx
+* 311_Service_Requests_from_2010_to_2026023.csv.idx
+* Housing_Database_Data_Dictionary.pdf
+* 311_Service_Requests_from_2010_to_2026023.stats.csv.data.jsonl
+* pptxgenjs.md
+* NYC_Snow_Response_Analysis.html
 
 ## Context
 
 ### Connectors
-qsv
-mcp-census-api
-open-meteo
-Web search
+
+* qsv
+* mcp-census-api
+* open-meteo
+* Web search
 
 ### Skills
-docx
-pptx
-genai-disclaimer
+
+* docx
+* pptx
+* genai-disclaimer
 
 Context
 This is the transcript of a coworking session with Claude, where we analyzed the NYC 311 dataset and Housing Database to study the city's response to snowstorms from 2010 to 2026. We retrieved snowstorm data, historical weather details, news coverage, and enriched it with Census data to generate insights for the current administration. The final deliverables include an interactive HTML report, a Word document, and a PowerPoint briefing deck.
