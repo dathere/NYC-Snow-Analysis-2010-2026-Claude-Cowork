@@ -1,0 +1,45 @@
+field,type,is_ascii,sum,min,max,range,sort_order,sortiness,min_length,max_length,sum_length,avg_length,stddev_length,variance_length,cv_length,mean,sem,geometric_mean,harmonic_mean,stddev,variance,cv,nullcount,n_negative,n_zero,n_positive,max_precision,sparsity,cardinality,uniqueness_ratio
+Unique Key,Integer,,1859744093899446,10564222,68071273,57507051,Unsorted,-0.0005,,,,,,,,43377637.027,2282.2647,40500617.7497,37409955.8095,14943752.4295,223315736675303.2188,34.4504,0,0,0,42873338,,0,42873338,1
+Created Date,DateTime,,,2010-01-01T00:00:00+00:00,2026-02-22T02:25:55+00:00,5896.10133,Unsorted,-0.4429,,,,,,,,2019-01-21T03:14:07.549+00:00,0.25819,17835.47325,17752.10621,1690.57346,2858038.61541,9.4355,0,,,,,0,30930785,0.7214
+Closed Date,DateTime,,,1899-12-31T19:00:00+00:00,3027-03-30T00:00:00+00:00,411716.20833,Unsorted,0.0528,,,,,,,,2019-02-08T01:43:03.304+00:00,0.27221,,,1763.7489,3110810.18675,9.8341,890253,,,,,0.0208,22453692,0.5237
+Agency,String,true,,3-1-1,TLC,,Unsorted,0.4498,3,5,149818793,3.4945,0.5486,0.3009,0.157,,,,,,,,0,,,,,0,35,0
+Agency Name,String,true,,3-1-1,Valuation Policy,,Unsorted,0.4484,3,98,1489894342,34.7511,9.382,88.0212,0.27,,,,,,,,0,,,,,0,1887,0
+Problem (formerly Complaint Type),String,true,,$(sleep 11),{!xmlparser v='&lt;!DOCTYPE...,,Unsorted,0.1494,3,45,714757377,16.6714,6.629,43.944,0.3976,,,,,,,,0,,,,,0,505,0
+Problem Detail (formerly Descriptor),String,false,,1 Missed Collection,unknown odor/taste in drinking water (QA6),,Unsorted,0.1083,0,104,747855995,17.4434,10.2064,104.1715,0.5851,,,,,,,,192487,,,,,0.0045,2053,0
+Additional Details,String,false,,'020OB0101159,__________2020OL0104120,,Unsorted,0.1294,0,80,272144437,6.3476,9.3459,87.3452,1.4723,,,,,,,,21499454,,,,,0.5015,22654,0.0005
+Location Type,String,true,,"1-, 2- and 3- Family Home",Yard,,Unsorted,0.4065,0,36,557784626,13.0101,8.5529,73.1526,0.6574,,,,,,,,8059466,,,,,0.188,240,0
+Incident Zip,String,true,,*,na,,Unsorted,0.0796,0,10,182077418,4.2469,0.9734,0.9476,0.2292,,,,,,,,1589872,,,,,0.0371,2958,0.0001
+Incident Address,String,false,,# NEWARK AIRPORT,zsdfzsdf,,Unsorted,0.0685,0,99,669625622,15.6187,6.6795,44.6152,0.4277,,,,,,,,5342672,,,,,0.1246,1811894,0.0423
+Street Name,String,false,,# 2B EAST  135 STREET,zsdfzsdf,,Unsorted,0.0717,0,99,502051865,11.7101,5.4143,29.3149,0.4624,,,,,,,,5343566,,,,,0.1246,47230,0.0011
+Cross Street 1,String,false,,& 10 AVE,{AMBULANCE WITH STRIPE},,Unsorted,0.0118,0,41,372990687,8.6998,6.7642,45.754,0.7775,,,,,,,,13195744,,,,,0.3078,133551,0.0031
+Cross Street 2,String,true,,#4,{AMBULANCE WITH STRIPE},,Unsorted,0.0115,0,41,375418739,8.7565,6.8451,46.8548,0.7817,,,,,,,,13314773,,,,,0.3106,43727,0.001
+Intersection Street 1,String,true,,* E 81 ST,young,,Unsorted,0.0175,0,60,222624024,5.1926,6.9234,47.9339,1.3333,,,,,,,,25857997,,,,,0.6031,30660,0.0007
+Intersection Street 2,String,true,,& 10 AVE,{AMBULANCE WITH STRIPE},,Unsorted,0.0163,0,47,223746755,5.2188,6.9636,48.4922,1.3343,,,,,,,,25857485,,,,,0.6031,31350,0.0007
+Address Type,String,true,,ADDRESS,UNRECOGNIZED,,Unsorted,0.7821,0,12,294939841,6.8793,2.7462,7.5418,0.3992,,,,,,,,4226585,,,,,0.0986,9,0
+City,String,true,,#200 BREA,yonkers,,Unsorted,0.2446,0,61,330849242,7.7169,3.1995,10.2368,0.4146,,,,,,,,2388884,,,,,0.0557,2999,0.0001
+Landmark,String,true,,0 BOND STREET,ZWICKY AVENUE,,Unsorted,0.0185,0,33,163042597,3.8029,6.316,39.8913,1.6608,,,,,,,,30701301,,,,,0.7161,12189,0.0003
+Facility Type,String,true,,DSNY Garage,School District,,Unsorted,0.7274,0,15,98532167,2.2982,2.8071,7.8795,1.2214,,,,,,,,20338296,,,,,0.4744,6,0
+Status,String,true,,Assigned,Unspecified,,Unsorted,0.9545,4,16,258603625,6.0318,0.4616,0.2131,0.0765,,,,,,,,0,,,,,0,13,0
+Due Date,DateTime,,,1900-01-02T00:00:00+00:00,2026-03-23T17:20:43+00:00,46101.72272,Unsorted,-0.3871,,,,,,,,2015-06-25T05:05:43.472+00:00,0.36029,,,1064.80945,1133819.16526,6.4102,34139029,,,,,0.7963,8187578,0.191
+Resolution Description,String,false,,"A ""Forever Graffiti Free Form"" has been sent to the property owner or representative.",Â The Department of Sanitation observed illegal postings at the location. The Department will issue a Summons to the responsible party once it is identified.,,Unsorted,0.1372,0,934,6831951402,159.352,111.8086,12501.1624,0.7016,,,,,,,,1266851,,,,,0.0295,2147,0.0001
+Resolution Action Updated Date,DateTime,,,2000-12-31T23:21:26+00:00,2927-03-06T12:30:00+00:00,338278.54762,Unsorted,0.0631,,,,,,,,2019-02-13T02:49:31.396+00:00,0.26029,17858.19508,17774.53574,1695.52152,2874793.23012,9.451,442180,,,,,0.0103,20933045,0.4883
+Community Board,String,true,,0 Unspecified,Unspecified STATEN ISLAND,,Unsorted,0.1076,0,25,463926646,10.8209,2.7025,7.3037,0.2498,,,,,,,,40001,,,,,0.0009,80,0
+Council District,String,true,,00,N/A,,Unsorted,0.0911,0,5,82102119,1.915,0.4035,0.1628,0.2107,,,,,,,,1822197,,,,,0.0425,55,0
+Police Precinct,String,true,,Precinct 1,Unspecified,,Unsorted,0.1072,10,12,481627914,11.2337,0.5053,0.2553,0.045,,,,,,,,0,,,,,0,78,0
+BBL,String,true,,0000000000,5270000501,,Unsorted,0.109,0,10,24063600,0.5613,3.9556,15.6465,7.0475,,,,,,,,8291358,,,,,0.1934,826587,0.0193
+Borough,String,true,,BRONX,Unspecified,,Unsorted,0.3102,0,13,320052204,7.4651,2.0191,4.0767,0.2705,,,,,,,,40001,,,,,0.0009,7,0
+X Coordinate (State Plane),String,true,,"1,000,000","999,999",,Unsorted,0.0762,0,10,163495992,3.8135,1.4542,2.1146,0.3813,,,,,,,,2686464,,,,,0.0627,275506,0.0064
+Y Coordinate (State Plane),String,true,,"-2,280,004","272,089",,Unsorted,0.076,0,10,139305141,3.2492,0.9231,0.8522,0.2841,,,,,,,,2685108,,,,,0.0626,285430,0.0067
+Open Data Channel Type,String,true,,MOBILE,UNKNOWN,,Unsorted,0.4619,5,7,245946061,5.7366,0.7255,0.5264,0.1265,,,,,,,,0,,,,,0,5,0
+Park Facility Name,String,false,,"""Uncle"" Vito F. Maranzano Glendale Playground",Zion Triangle,,Unsorted,0.9873,3,98,474018949,11.0563,1.089,1.1859,0.0985,,,,,,,,0,,,,,0,6531,0.0002
+Park Borough,String,true,,BRONX,Unspecified,,Unsorted,0.3102,0,13,320052204,7.4651,2.0191,4.0767,0.2705,,,,,,,,40001,,,,,0.0009,7,0
+Vehicle Type,String,true,,Ambulette / Paratransit,Van,,Unsorted,0.4628,0,23,1340676,0.0313,0.3773,0.1424,12.0658,,,,,,,,42504348,,,,,0.9914,10,0
+Taxi Company Borough,String,true,,BRONX,STATEN ISLAND,,Unsorted,0.2768,0,24,228384,0.0053,0.2052,0.0421,38.5277,,,,,,,,42842648,,,,,0.9993,7,0
+Taxi Pick Up Location,String,false,,", QUEENS ,NY,","null, null",,Unsorted,0.2524,0,60,11125356,0.2595,3.4076,11.6119,13.1318,,,,,,,,42520315,,,,,0.9918,72251,0.0017
+Bridge Highway Name,String,true,,1,Z,,Unsorted,0.1287,0,42,1514084,0.0353,0.7788,0.6065,22.0519,,,,,,,,42694058,,,,,0.9958,115,0
+Bridge Highway Direction,String,true,,1 2 3 Downtown & Brooklyn,Westbound/To Goethals Br,,Unsorted,0.1039,0,54,2288360,0.0534,1.0576,1.1186,19.815,,,,,,,,42753435,,,,,0.9972,290,0
+Road Ramp,String,true,,1 Av & 14 St to 8 Av,Yankee Stadium & E 161 St / Court House,,Unsorted,0.5216,0,40,803406,0.0187,0.5104,0.2605,27.237,,,,,,,,42775522,,,,,0.9977,803,0
+Bridge Highway Segment,String,true,,1-1-1195499155,Wythe Ave/Kent Ave (Exit 31),,Unsorted,0.1459,0,100,4946619,0.1154,2.4124,5.8199,20.9091,,,,,,,,42690333,,,,,0.9957,5620,0.0001
+Latitude,Float,,1636944571.3091,2.04007e-6,40.91345653278,40.9135,Unsorted,0.0634,,,,,,,,40.7335,0,40.7334,27.2127,0.0874,0.0076,0.2147,2686624,0,0,40186714,11,0.0627,1875128,0.0437
+Longitude,Float,,-2970722701.9605,-74.25521082506,-1.1492e-7,74.2552,Unsorted,0.0634,,,,,,,,-73.923,0,,,0.0807,0.0065,-0.1091,2686624,40186714,0,0,11,0.0627,1875186,0.0437
+Location,String,true,,POINT (-73.700291995336 40.741011080728),POINT (-74.255210825064 40.507780062054),,Unsorted,0.0632,0,40,1598556772,37.2856,9.6527,93.1746,0.2589,,,,,,,,2686625,,,,,0.0627,1875291,0.0437

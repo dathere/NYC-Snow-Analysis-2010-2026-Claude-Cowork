@@ -1,0 +1,5 @@
+{
+  "arg_input": "/Users/joelnatividad/Downloads/testmcp2/311_Service_Requests_from_2010_to_2026023.csv","flag_select": "<All>","flag_everything": false,"flag_typesonly": false,"flag_infer_boolean": false,"flag_mode": false,"flag_cardinality": true,"flag_median": false,"flag_mad": false,"flag_quartiles": false,"flag_percentiles": false,"flag_percentile_list": "5,10,40,60,90,95","flag_round": 4,"flag_nulls": false,"flag_infer_dates": true,"flag_dates_whitelist": "Created Date,Closed Date,Due Date,Resolution Action Updated Date","flag_prefer_dmy": false,"flag_no_headers": false,"flag_delimiter": "","flag_output_snappy": false,"canonical_input_path": "/Users/joelnatividad/Downloads/testmcp2/311_Service_Requests_from_2010_to_2026023.csv","canonical_stats_path": "/Users/joelnatividad/Downloads/testmcp2/311_Service_Requests_from_2010_to_2026023.stats.csv.json","record_count": 42873338,"date_generated": "2026-02-23T15:10:15.309946+00:00","compute_duration_ms": 194453,"qsv_version": "16.1.0","flag_weight": "","field_count": 44,"filesize_bytes": 25875282122,"hash": {
+    "BLAKE3": "40b0d5d2e34767aeeb6da2fdf417f4ac0eb9aa7b55869932117e8ed9add23ce6"
+  }
+}

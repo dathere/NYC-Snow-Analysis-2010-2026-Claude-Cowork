@@ -1,0 +1,1081 @@
+month,category,complaints
+2010-01,Boilers,297
+2010-01,Heating/Hot Water,40580
+2010-01,Homeless/Shelter,66
+2010-01,Plumbing,11010
+2010-01,Snow/Ice,547
+2010-01,Water/Leak,4813
+2010-02,Boilers,256
+2010-02,Heating/Hot Water,24771
+2010-02,Homeless/Shelter,55
+2010-02,Plumbing,9626
+2010-02,Snow/Ice,8553
+2010-02,Water/Leak,2872
+2010-03,Boilers,211
+2010-03,Heating/Hot Water,17679
+2010-03,Homeless/Shelter,115
+2010-03,Plumbing,13725
+2010-03,Snow/Ice,276
+2010-03,Water/Leak,3841
+2010-04,Boilers,123
+2010-04,Heating/Hot Water,9799
+2010-04,Homeless/Shelter,135
+2010-04,Plumbing,9229
+2010-04,Water/Leak,4093
+2010-05,Boilers,74
+2010-05,Heating/Hot Water,5949
+2010-05,Homeless/Shelter,165
+2010-05,Plumbing,7795
+2010-05,Snow/Ice,1
+2010-05,Water/Leak,4510
+2010-06,Boilers,62
+2010-06,Heating/Hot Water,1958
+2010-06,Homeless/Shelter,176
+2010-06,Plumbing,8035
+2010-06,Water/Leak,9780
+2010-07,Boilers,62
+2010-07,Heating/Hot Water,1718
+2010-07,Homeless/Shelter,218
+2010-07,Plumbing,8842
+2010-07,Snow/Ice,1
+2010-07,Water/Leak,17751
+2010-08,Boilers,89
+2010-08,Heating/Hot Water,1912
+2010-08,Homeless/Shelter,229
+2010-08,Plumbing,8792
+2010-08,Snow/Ice,1
+2010-08,Water/Leak,6933
+2010-09,Boilers,86
+2010-09,Heating/Hot Water,2201
+2010-09,Homeless/Shelter,238
+2010-09,Plumbing,8754
+2010-09,Water/Leak,4438
+2010-10,Boilers,167
+2010-10,Heating/Hot Water,19569
+2010-10,Homeless/Shelter,184
+2010-10,Plumbing,10134
+2010-10,Water/Leak,3597
+2010-11,Boilers,263
+2010-11,Heating/Hot Water,37462
+2010-11,Homeless/Shelter,126
+2010-11,Plumbing,9422
+2010-11,Snow/Ice,1
+2010-11,Water/Leak,3777
+2010-12,Boilers,353
+2010-12,Heating/Hot Water,51776
+2010-12,Homeless/Shelter,80
+2010-12,Plumbing,10242
+2010-12,Snow/Ice,2644
+2010-12,Water/Leak,3937
+2011-01,Boilers,332
+2011-01,Heating/Hot Water,39975
+2011-01,Homeless/Shelter,79
+2011-01,Plumbing,10899
+2011-01,Snow/Ice,8655
+2011-01,Water/Leak,3848
+2011-02,Boilers,191
+2011-02,Heating/Hot Water,24824
+2011-02,Homeless/Shelter,62
+2011-02,Plumbing,8897
+2011-02,Snow/Ice,3399
+2011-02,Water/Leak,3732
+2011-03,Boilers,170
+2011-03,Heating/Hot Water,21810
+2011-03,Homeless/Shelter,115
+2011-03,Plumbing,10514
+2011-03,Snow/Ice,20
+2011-03,Water/Leak,3869
+2011-04,Boilers,142
+2011-04,Heating/Hot Water,11800
+2011-04,Homeless/Shelter,138
+2011-04,Plumbing,8327
+2011-04,Snow/Ice,2
+2011-04,Water/Leak,3410
+2011-05,Boilers,83
+2011-05,Heating/Hot Water,4369
+2011-05,Homeless/Shelter,151
+2011-05,Plumbing,7847
+2011-05,Water/Leak,3742
+2011-06,Boilers,68
+2011-06,Heating/Hot Water,2047
+2011-06,Homeless/Shelter,211
+2011-06,Plumbing,8063
+2011-06,Water/Leak,8080
+2011-07,Boilers,54
+2011-07,Heating/Hot Water,1794
+2011-07,Homeless/Shelter,226
+2011-07,Plumbing,8250
+2011-07,Snow/Ice,2
+2011-07,Water/Leak,15860
+2011-08,Boilers,63
+2011-08,Heating/Hot Water,1944
+2011-08,Homeless/Shelter,201
+2011-08,Plumbing,11102
+2011-08,Water/Leak,5126
+2011-09,Boilers,88
+2011-09,Heating/Hot Water,2198
+2011-09,Homeless/Shelter,247
+2011-09,Plumbing,12903
+2011-09,Water/Leak,3770
+2011-10,Boilers,180
+2011-10,Heating/Hot Water,22179
+2011-10,Homeless/Shelter,172
+2011-10,Plumbing,11107
+2011-10,Snow/Ice,2
+2011-10,Water/Leak,3236
+2011-11,Boilers,235
+2011-11,Heating/Hot Water,25456
+2011-11,Homeless/Shelter,148
+2011-11,Plumbing,10237
+2011-11,Water/Leak,4004
+2011-12,Boilers,234
+2011-12,Heating/Hot Water,32689
+2011-12,Homeless/Shelter,89
+2011-12,Plumbing,9570
+2011-12,Snow/Ice,43
+2011-12,Water/Leak,2901
+2012-01,Boilers,327
+2012-01,Heating/Hot Water,38809
+2012-01,Homeless/Shelter,91
+2012-01,Plumbing,9764
+2012-01,Snow/Ice,466
+2012-01,Water/Leak,3402
+2012-02,Boilers,224
+2012-02,Heating/Hot Water,21578
+2012-02,Homeless/Shelter,83
+2012-02,Plumbing,7946
+2012-02,Snow/Ice,19
+2012-02,Water/Leak,2930
+2012-03,Boilers,134
+2012-03,Heating/Hot Water,15354
+2012-03,Homeless/Shelter,109
+2012-03,Plumbing,7634
+2012-03,Snow/Ice,7
+2012-03,Water/Leak,3278
+2012-04,Boilers,123
+2012-04,Heating/Hot Water,11218
+2012-04,Homeless/Shelter,137
+2012-04,Plumbing,6602
+2012-04,Water/Leak,2839
+2012-05,Boilers,52
+2012-05,Heating/Hot Water,4120
+2012-05,Homeless/Shelter,165
+2012-05,Plumbing,7174
+2012-05,Water/Leak,4698
+2012-06,Boilers,50
+2012-06,Heating/Hot Water,2373
+2012-06,Homeless/Shelter,208
+2012-06,Plumbing,7032
+2012-06,Water/Leak,10130
+2012-07,Boilers,46
+2012-07,Heating/Hot Water,2299
+2012-07,Homeless/Shelter,313
+2012-07,Plumbing,7375
+2012-07,Water/Leak,13783
+2012-08,Boilers,45
+2012-08,Heating/Hot Water,2288
+2012-08,Homeless/Shelter,299
+2012-08,Plumbing,7909
+2012-08,Water/Leak,5028
+2012-09,Boilers,57
+2012-09,Heating/Hot Water,2289
+2012-09,Homeless/Shelter,281
+2012-09,Plumbing,7191
+2012-09,Water/Leak,3186
+2012-10,Boilers,116
+2012-10,Heating/Hot Water,13023
+2012-10,Homeless/Shelter,242
+2012-10,Plumbing,7280
+2012-10,Water/Leak,2941
+2012-11,Boilers,279
+2012-11,Heating/Hot Water,40561
+2012-11,Homeless/Shelter,125
+2012-11,Plumbing,7486
+2012-11,Snow/Ice,27
+2012-11,Water/Leak,2715
+2012-12,Boilers,267
+2012-12,Heating/Hot Water,30036
+2012-12,Homeless/Shelter,133
+2012-12,Plumbing,7812
+2012-12,Snow/Ice,48
+2012-12,Water/Leak,2746
+2013-01,Boilers,415
+2013-01,Heating/Hot Water,43895
+2013-01,Homeless/Shelter,127
+2013-01,Plumbing,9054
+2013-01,Snow/Ice,325
+2013-01,Water/Leak,5643
+2013-02,Boilers,279
+2013-02,Heating/Hot Water,29266
+2013-02,Homeless/Shelter,103
+2013-02,Plumbing,7671
+2013-02,Snow/Ice,1082
+2013-02,Water/Leak,3545
+2013-03,Boilers,184
+2013-03,Heating/Hot Water,20717
+2013-03,Homeless/Shelter,79
+2013-03,Plumbing,7563
+2013-03,Snow/Ice,105
+2013-03,Water/Leak,2827
+2013-04,Boilers,124
+2013-04,Heating/Hot Water,12195
+2013-04,Homeless/Shelter,153
+2013-04,Plumbing,6893
+2013-04,Water/Leak,3589
+2013-05,Boilers,83
+2013-05,Heating/Hot Water,5535
+2013-05,Homeless/Shelter,211
+2013-05,Plumbing,7364
+2013-05,Water/Leak,3750
+2013-06,Boilers,53
+2013-06,Heating/Hot Water,2418
+2013-06,Homeless/Shelter,241
+2013-06,Plumbing,7592
+2013-06,Water/Leak,5653
+2013-07,Boilers,49
+2013-07,Heating/Hot Water,2074
+2013-07,Homeless/Shelter,315
+2013-07,Plumbing,8183
+2013-07,Water/Leak,13526
+2013-08,Boilers,49
+2013-08,Heating/Hot Water,2017
+2013-08,Homeless/Shelter,452
+2013-08,Plumbing,6965
+2013-08,Snow/Ice,3
+2013-08,Water/Leak,3062
+2013-09,Boilers,63
+2013-09,Heating/Hot Water,2484
+2013-09,Homeless/Shelter,437
+2013-09,Plumbing,6401
+2013-09,Water/Leak,2752
+2013-10,Boilers,132
+2013-10,Heating/Hot Water,15025
+2013-10,Homeless/Shelter,422
+2013-10,Plumbing,6830
+2013-10,Snow/Ice,1
+2013-10,Water/Leak,3548
+2013-11,Boilers,255
+2013-11,Heating/Hot Water,35649
+2013-11,Homeless/Shelter,210
+2013-11,Plumbing,7022
+2013-11,Snow/Ice,36
+2013-11,Water/Leak,2483
+2013-12,Boilers,242
+2013-12,Heating/Hot Water,33029
+2013-12,Homeless/Shelter,182
+2013-12,Plumbing,8272
+2013-12,Snow/Ice,923
+2013-12,Water/Leak,2808
+2014-01,Boilers,323
+2014-01,Heating/Hot Water,60638
+2014-01,Homeless/Shelter,213
+2014-01,Plumbing,11361
+2014-01,Snow/Ice,4318
+2014-01,Water/Leak,6276
+2014-02,Boilers,239
+2014-02,Heating/Hot Water,29197
+2014-02,Homeless/Shelter,143
+2014-02,Plumbing,9217
+2014-02,Snow/Ice,10034
+2014-02,Water/Leak,4201
+2014-03,Boilers,225
+2014-03,Heating/Hot Water,23352
+2014-03,Homeless/Shelter,194
+2014-03,Plumbing,6279
+2014-03,Snow/Ice,250
+2014-03,Water/Leak,6562
+2014-04,Boilers,154
+2014-04,Heating/Hot Water,13414
+2014-04,Homeless/Shelter,217
+2014-04,Plumbing,4430
+2014-04,Snow/Ice,8
+2014-04,Water/Leak,6751
+2014-05,Boilers,79
+2014-05,Heating/Hot Water,4268
+2014-05,Homeless/Shelter,348
+2014-05,Plumbing,4430
+2014-05,Water/Leak,7808
+2014-06,Boilers,46
+2014-06,Heating/Hot Water,2747
+2014-06,Homeless/Shelter,376
+2014-06,Plumbing,4152
+2014-06,Water/Leak,8575
+2014-07,Boilers,27
+2014-07,Heating/Hot Water,2490
+2014-07,Homeless/Shelter,551
+2014-07,Plumbing,4505
+2014-07,Water/Leak,11285
+2014-08,Boilers,42
+2014-08,Heating/Hot Water,2163
+2014-08,Homeless/Shelter,716
+2014-08,Plumbing,4035
+2014-08,Water/Leak,7049
+2014-09,Boilers,41
+2014-09,Heating/Hot Water,2368
+2014-09,Homeless/Shelter,705
+2014-09,Plumbing,4175
+2014-09,Water/Leak,6248
+2014-10,Boilers,108
+2014-10,Heating/Hot Water,16769
+2014-10,Homeless/Shelter,577
+2014-10,Plumbing,4642
+2014-10,Water/Leak,6871
+2014-11,Boilers,183
+2014-11,Heating/Hot Water,42686
+2014-11,Homeless/Shelter,466
+2014-11,Plumbing,4885
+2014-11,Snow/Ice,86
+2014-11,Water/Leak,6099
+2014-12,Boilers,169
+2014-12,Heating/Hot Water,31838
+2014-12,Homeless/Shelter,406
+2014-12,Plumbing,5110
+2014-12,Snow/Ice,68
+2014-12,Water/Leak,7088
+2015-01,Boilers,172
+2015-01,Heating/Hot Water,49477
+2015-01,Homeless/Shelter,386
+2015-01,Plumbing,5657
+2015-01,Snow/Ice,2676
+2015-01,Water/Leak,9031
+2015-02,Boilers,205
+2015-02,Heating/Hot Water,50089
+2015-02,Homeless/Shelter,358
+2015-02,Plumbing,6306
+2015-02,Snow/Ice,8268
+2015-02,Water/Leak,10730
+2015-03,Boilers,122
+2015-03,Heating/Hot Water,23048
+2015-03,Homeless/Shelter,463
+2015-03,Plumbing,5457
+2015-03,Snow/Ice,2040
+2015-03,Water/Leak,9539
+2015-04,Boilers,111
+2015-04,Heating/Hot Water,13550
+2015-04,Homeless/Shelter,591
+2015-04,Plumbing,4843
+2015-04,Snow/Ice,9
+2015-04,Water/Leak,7836
+2015-05,Boilers,73
+2015-05,Heating/Hot Water,4629
+2015-05,Homeless/Shelter,854
+2015-05,Plumbing,4257
+2015-05,Water/Leak,7354
+2015-06,Boilers,140
+2015-06,Heating/Hot Water,2987
+2015-06,Homeless/Shelter,940
+2015-06,Plumbing,4633
+2015-06,Water/Leak,9785
+2015-07,Boilers,86
+2015-07,Heating/Hot Water,2528
+2015-07,Homeless/Shelter,1269
+2015-07,Plumbing,4688
+2015-07,Water/Leak,12962
+2015-08,Boilers,39
+2015-08,Heating/Hot Water,2362
+2015-08,Homeless/Shelter,1441
+2015-08,Plumbing,4570
+2015-08,Water/Leak,10148
+2015-09,Boilers,43
+2015-09,Heating/Hot Water,2590
+2015-09,Homeless/Shelter,1503
+2015-09,Plumbing,4588
+2015-09,Water/Leak,7936
+2015-10,Boilers,94
+2015-10,Heating/Hot Water,25637
+2015-10,Homeless/Shelter,1079
+2015-10,Plumbing,5374
+2015-10,Water/Leak,7918
+2015-11,Boilers,159
+2015-11,Heating/Hot Water,27707
+2015-11,Homeless/Shelter,1052
+2015-11,Plumbing,5017
+2015-11,Snow/Ice,8
+2015-11,Water/Leak,6697
+2015-12,Boilers,167
+2015-12,Heating/Hot Water,22444
+2015-12,Homeless/Shelter,1448
+2015-12,Plumbing,4685
+2015-12,Snow/Ice,1
+2015-12,Water/Leak,6713
+2016-01,Boilers,258
+2016-01,Heating/Hot Water,48767
+2016-01,Homeless/Shelter,1552
+2016-01,Plumbing,5521
+2016-01,Snow/Ice,4915
+2016-01,Water/Leak,9856
+2016-02,Boilers,206
+2016-02,Heating/Hot Water,38423
+2016-02,Homeless/Shelter,1190
+2016-02,Plumbing,5693
+2016-02,Snow/Ice,384
+2016-02,Water/Leak,8956
+2016-03,Boilers,152
+2016-03,Heating/Hot Water,17788
+2016-03,Homeless/Shelter,3925
+2016-03,Plumbing,4423
+2016-03,Snow/Ice,16
+2016-03,Water/Leak,8111
+2016-04,Boilers,96
+2016-04,Heating/Hot Water,12923
+2016-04,Homeless/Shelter,4330
+2016-04,Plumbing,3964
+2016-04,Snow/Ice,1
+2016-04,Water/Leak,6291
+2016-05,Boilers,77
+2016-05,Heating/Hot Water,7771
+2016-05,Homeless/Shelter,5070
+2016-05,Plumbing,4136
+2016-05,Water/Leak,7230
+2016-06,Boilers,117
+2016-06,Heating/Hot Water,2466
+2016-06,Homeless/Shelter,6062
+2016-06,Plumbing,4084
+2016-06,Water/Leak,7877
+2016-07,Boilers,90
+2016-07,Heating/Hot Water,2297
+2016-07,Homeless/Shelter,5912
+2016-07,Plumbing,4514
+2016-07,Water/Leak,13660
+2016-08,Boilers,111
+2016-08,Heating/Hot Water,2509
+2016-08,Homeless/Shelter,6901
+2016-08,Plumbing,5008
+2016-08,Water/Leak,14260
+2016-09,Boilers,93
+2016-09,Heating/Hot Water,2747
+2016-09,Homeless/Shelter,5778
+2016-09,Plumbing,4165
+2016-09,Snow/Ice,1
+2016-09,Water/Leak,7456
+2016-10,Boilers,159
+2016-10,Heating/Hot Water,22575
+2016-10,Homeless/Shelter,4111
+2016-10,Plumbing,5003
+2016-10,Snow/Ice,1
+2016-10,Water/Leak,7263
+2016-11,Boilers,149
+2016-11,Heating/Hot Water,28596
+2016-11,Homeless/Shelter,2999
+2016-11,Plumbing,5099
+2016-11,Snow/Ice,1
+2016-11,Water/Leak,7136
+2016-12,Boilers,262
+2016-12,Heating/Hot Water,42216
+2016-12,Homeless/Shelter,2953
+2016-12,Plumbing,6238
+2016-12,Snow/Ice,166
+2016-12,Water/Leak,7176
+2017-01,Boilers,245
+2017-01,Heating/Hot Water,34198
+2017-01,Homeless/Shelter,2038
+2017-01,Plumbing,6130
+2017-01,Snow/Ice,1963
+2017-01,Water/Leak,8745
+2017-02,Boilers,191
+2017-02,Heating/Hot Water,23403
+2017-02,Homeless/Shelter,1728
+2017-02,Plumbing,4780
+2017-02,Snow/Ice,2249
+2017-02,Water/Leak,7468
+2017-03,Boilers,120
+2017-03,Heating/Hot Water,31247
+2017-03,Homeless/Shelter,1744
+2017-03,Plumbing,4976
+2017-03,Snow/Ice,6878
+2017-03,Water/Leak,6643
+2017-04,Boilers,91
+2017-04,Heating/Hot Water,10740
+2017-04,Homeless/Shelter,3285
+2017-04,Plumbing,4279
+2017-04,Water/Leak,7396
+2017-05,Boilers,98
+2017-05,Heating/Hot Water,7560
+2017-05,Homeless/Shelter,2451
+2017-05,Plumbing,4486
+2017-05,Snow/Ice,2
+2017-05,Water/Leak,8584
+2017-06,Boilers,55
+2017-06,Heating/Hot Water,3230
+2017-06,Homeless/Shelter,2193
+2017-06,Plumbing,4510
+2017-06,Water/Leak,10549
+2017-07,Boilers,46
+2017-07,Heating/Hot Water,2575
+2017-07,Homeless/Shelter,2805
+2017-07,Plumbing,4328
+2017-07,Water/Leak,11425
+2017-08,Boilers,57
+2017-08,Heating/Hot Water,2479
+2017-08,Homeless/Shelter,2836
+2017-08,Plumbing,4788
+2017-08,Water/Leak,8401
+2017-09,Boilers,59
+2017-09,Heating/Hot Water,2569
+2017-09,Homeless/Shelter,2780
+2017-09,Plumbing,4072
+2017-09,Water/Leak,6652
+2017-10,Boilers,97
+2017-10,Heating/Hot Water,10281
+2017-10,Homeless/Shelter,3016
+2017-10,Plumbing,4821
+2017-10,Water/Leak,7198
+2017-11,Boilers,200
+2017-11,Heating/Hot Water,37690
+2017-11,Homeless/Shelter,1940
+2017-11,Plumbing,4872
+2017-11,Snow/Ice,14
+2017-11,Water/Leak,6843
+2017-12,Boilers,281
+2017-12,Heating/Hot Water,48667
+2017-12,Homeless/Shelter,1508
+2017-12,Plumbing,6087
+2017-12,Snow/Ice,686
+2017-12,Water/Leak,7374
+2018-01,Boilers,259
+2018-01,Heating/Hot Water,57426
+2018-01,Homeless/Shelter,1834
+2018-01,Plumbing,7664
+2018-01,Snow/Ice,3729
+2018-01,Water/Leak,15767
+2018-02,Boilers,139
+2018-02,Heating/Hot Water,20149
+2018-02,Homeless/Shelter,980
+2018-02,Plumbing,4647
+2018-02,Snow/Ice,160
+2018-02,Water/Leak,7455
+2018-03,Boilers,169
+2018-03,Heating/Hot Water,24126
+2018-03,Homeless/Shelter,909
+2018-03,Plumbing,4732
+2018-03,Snow/Ice,538
+2018-03,Water/Leak,7735
+2018-04,Boilers,116
+2018-04,Heating/Hot Water,15490
+2018-04,Homeless/Shelter,1541
+2018-04,Plumbing,4348
+2018-04,Snow/Ice,7
+2018-04,Water/Leak,7762
+2018-05,Boilers,62
+2018-05,Heating/Hot Water,4979
+2018-05,Homeless/Shelter,2404
+2018-05,Plumbing,4325
+2018-05,Snow/Ice,1
+2018-05,Water/Leak,8153
+2018-06,Boilers,49
+2018-06,Heating/Hot Water,3172
+2018-06,Homeless/Shelter,2445
+2018-06,Plumbing,4221
+2018-06,Snow/Ice,1
+2018-06,Water/Leak,9009
+2018-07,Boilers,51
+2018-07,Heating/Hot Water,2842
+2018-07,Homeless/Shelter,2865
+2018-07,Plumbing,4624
+2018-07,Water/Leak,13861
+2018-08,Boilers,55
+2018-08,Heating/Hot Water,2734
+2018-08,Homeless/Shelter,3239
+2018-08,Plumbing,6298
+2018-08,Water/Leak,11910
+2018-09,Boilers,92
+2018-09,Heating/Hot Water,2716
+2018-09,Homeless/Shelter,2915
+2018-09,Plumbing,4860
+2018-09,Snow/Ice,1
+2018-09,Water/Leak,8843
+2018-10,Boilers,227
+2018-10,Heating/Hot Water,26746
+2018-10,Homeless/Shelter,2775
+2018-10,Plumbing,5861
+2018-10,Snow/Ice,1
+2018-10,Water/Leak,8048
+2018-11,Boilers,212
+2018-11,Heating/Hot Water,35335
+2018-11,Homeless/Shelter,1483
+2018-11,Plumbing,5276
+2018-11,Snow/Ice,44
+2018-11,Water/Leak,8010
+2018-12,Boilers,210
+2018-12,Heating/Hot Water,29423
+2018-12,Homeless/Shelter,1045
+2018-12,Plumbing,5055
+2018-12,Snow/Ice,111
+2018-12,Water/Leak,8990
+2019-01,Boilers,327
+2019-01,Heating/Hot Water,47482
+2019-01,Homeless/Shelter,1202
+2019-01,Plumbing,6333
+2019-01,Snow/Ice,443
+2019-01,Water/Leak,10244
+2019-02,Boilers,189
+2019-02,Heating/Hot Water,29013
+2019-02,Homeless/Shelter,858
+2019-02,Plumbing,5312
+2019-02,Snow/Ice,283
+2019-02,Water/Leak,7691
+2019-03,Boilers,231
+2019-03,Heating/Hot Water,23251
+2019-03,Homeless/Shelter,951
+2019-03,Plumbing,5011
+2019-03,Snow/Ice,804
+2019-03,Water/Leak,6483
+2019-04,Boilers,313
+2019-04,Heating/Hot Water,12453
+2019-04,Homeless/Shelter,1685
+2019-04,Plumbing,4347
+2019-04,Water/Leak,6849
+2019-05,Boilers,266
+2019-05,Heating/Hot Water,8003
+2019-05,Homeless/Shelter,2101
+2019-05,Plumbing,4265
+2019-05,Water/Leak,7130
+2019-06,Boilers,141
+2019-06,Heating/Hot Water,3098
+2019-06,Homeless/Shelter,2590
+2019-06,Plumbing,3826
+2019-06,Snow/Ice,1
+2019-06,Water/Leak,7236
+2019-07,Boilers,84
+2019-07,Heating/Hot Water,2300
+2019-07,Homeless/Shelter,3052
+2019-07,Plumbing,2291
+2019-07,Water/Leak,14524
+2019-08,Boilers,83
+2019-08,Heating/Hot Water,1941
+2019-08,Homeless/Shelter,3264
+2019-08,Plumbing,1845
+2019-08,Water/Leak,7173
+2019-09,Boilers,79
+2019-09,Heating/Hot Water,2503
+2019-09,Homeless/Shelter,3728
+2019-09,Plumbing,1683
+2019-09,Water/Leak,5196
+2019-10,Boilers,176
+2019-10,Heating/Hot Water,15625
+2019-10,Homeless/Shelter,3703
+2019-10,Plumbing,1886
+2019-10,Water/Leak,5859
+2019-11,Boilers,252
+2019-11,Heating/Hot Water,36842
+2019-11,Homeless/Shelter,3116
+2019-11,Plumbing,2178
+2019-11,Snow/Ice,10
+2019-11,Water/Leak,4971
+2019-12,Boilers,271
+2019-12,Heating/Hot Water,31134
+2019-12,Homeless/Shelter,1878
+2019-12,Plumbing,2099
+2019-12,Snow/Ice,386
+2019-12,Water/Leak,5042
+2020-01,Boilers,281
+2020-01,Heating/Hot Water,25828
+2020-01,Homeless/Shelter,1642
+2020-01,Plumbing,2022
+2020-01,Snow/Ice,187
+2020-01,Water/Leak,5017
+2020-02,Boilers,220
+2020-02,Heating/Hot Water,20634
+2020-02,Homeless/Shelter,1379
+2020-02,Plumbing,1654
+2020-02,Snow/Ice,39
+2020-02,Water/Leak,4072
+2020-03,Boilers,261
+2020-03,Heating/Hot Water,16970
+2020-03,Homeless/Shelter,1511
+2020-03,Plumbing,3060
+2020-03,Snow/Ice,4
+2020-03,Water/Leak,4247
+2020-04,Boilers,134
+2020-04,Heating/Hot Water,12041
+2020-04,Homeless/Shelter,1521
+2020-04,Plumbing,1973
+2020-04,Water/Leak,2580
+2020-05,Boilers,118
+2020-05,Heating/Hot Water,6581
+2020-05,Homeless/Shelter,2615
+2020-05,Plumbing,2521
+2020-05,Water/Leak,4028
+2020-06,Boilers,79
+2020-06,Heating/Hot Water,2284
+2020-06,Homeless/Shelter,2453
+2020-06,Plumbing,3308
+2020-06,Water/Leak,6200
+2020-07,Boilers,108
+2020-07,Heating/Hot Water,2050
+2020-07,Homeless/Shelter,2891
+2020-07,Plumbing,4474
+2020-07,Water/Leak,13543
+2020-08,Boilers,109
+2020-08,Heating/Hot Water,1943
+2020-08,Homeless/Shelter,3357
+2020-08,Plumbing,4022
+2020-08,Snow/Ice,1
+2020-08,Water/Leak,8669
+2020-09,Boilers,136
+2020-09,Heating/Hot Water,1932
+2020-09,Homeless/Shelter,3076
+2020-09,Plumbing,3723
+2020-09,Water/Leak,6329
+2020-10,Boilers,225
+2020-10,Heating/Hot Water,16005
+2020-10,Homeless/Shelter,2979
+2020-10,Plumbing,4128
+2020-10,Water/Leak,5622
+2020-11,Boilers,214
+2020-11,Heating/Hot Water,22781
+2020-11,Homeless/Shelter,2286
+2020-11,Plumbing,4053
+2020-11,Snow/Ice,6
+2020-11,Water/Leak,6266
+2020-12,Boilers,257
+2020-12,Heating/Hot Water,36524
+2020-12,Homeless/Shelter,1518
+2020-12,Plumbing,4597
+2020-12,Snow/Ice,3723
+2020-12,Water/Leak,5815
+2021-01,Boilers,336
+2021-01,Heating/Hot Water,35526
+2021-01,Homeless/Shelter,1367
+2021-01,Plumbing,4476
+2021-01,Snow/Ice,120
+2021-01,Water/Leak,6567
+2021-02,Boilers,286
+2021-02,Heating/Hot Water,28996
+2021-02,Homeless/Shelter,969
+2021-02,Plumbing,4033
+2021-02,Snow/Ice,8015
+2021-02,Water/Leak,5185
+2021-03,Boilers,363
+2021-03,Heating/Hot Water,19996
+2021-03,Homeless/Shelter,2134
+2021-03,Plumbing,4202
+2021-03,Snow/Ice,65
+2021-03,Water/Leak,6166
+2021-04,Boilers,345
+2021-04,Heating/Hot Water,12157
+2021-04,Homeless/Shelter,3121
+2021-04,Plumbing,3737
+2021-04,Water/Leak,5242
+2021-05,Boilers,268
+2021-05,Heating/Hot Water,7172
+2021-05,Homeless/Shelter,3919
+2021-05,Plumbing,3724
+2021-05,Water/Leak,5538
+2021-06,Boilers,253
+2021-06,Heating/Hot Water,2733
+2021-06,Homeless/Shelter,4668
+2021-06,Plumbing,4600
+2021-06,Water/Leak,10377
+2021-07,Boilers,219
+2021-07,Heating/Hot Water,2314
+2021-07,Homeless/Shelter,6621
+2021-07,Plumbing,4637
+2021-07,Water/Leak,11908
+2021-08,Boilers,211
+2021-08,Heating/Hot Water,2256
+2021-08,Homeless/Shelter,7044
+2021-08,Plumbing,4890
+2021-08,Water/Leak,11223
+2021-09,Boilers,247
+2021-09,Heating/Hot Water,5339
+2021-09,Homeless/Shelter,8247
+2021-09,Plumbing,5500
+2021-09,Water/Leak,10263
+2021-10,Boilers,275
+2021-10,Heating/Hot Water,12606
+2021-10,Homeless/Shelter,9245
+2021-10,Plumbing,5000
+2021-10,Snow/Ice,1
+2021-10,Water/Leak,7006
+2021-11,Boilers,395
+2021-11,Heating/Hot Water,40878
+2021-11,Homeless/Shelter,7186
+2021-11,Plumbing,5160
+2021-11,Snow/Ice,10
+2021-11,Water/Leak,6363
+2021-12,Boilers,341
+2021-12,Heating/Hot Water,30549
+2021-12,Homeless/Shelter,6154
+2021-12,Plumbing,4808
+2021-12,Snow/Ice,39
+2021-12,Water/Leak,6121
+2022-01,Boilers,512
+2022-01,Heating/Hot Water,62457
+2022-01,Homeless/Shelter,5373
+2022-01,Plumbing,6242
+2022-01,Snow/Ice,4323
+2022-01,Water/Leak,8837
+2022-02,Boilers,353
+2022-02,Heating/Hot Water,30264
+2022-02,Homeless/Shelter,4279
+2022-02,Plumbing,5199
+2022-02,Snow/Ice,1207
+2022-02,Water/Leak,6695
+2022-03,Boilers,318
+2022-03,Heating/Hot Water,23842
+2022-03,Homeless/Shelter,4904
+2022-03,Plumbing,5104
+2022-03,Snow/Ice,33
+2022-03,Water/Leak,6520
+2022-04,Boilers,301
+2022-04,Heating/Hot Water,16168
+2022-04,Homeless/Shelter,5750
+2022-04,Plumbing,4382
+2022-04,Water/Leak,6340
+2022-05,Boilers,272
+2022-05,Heating/Hot Water,7055
+2022-05,Homeless/Shelter,5924
+2022-05,Plumbing,4302
+2022-05,Water/Leak,8048
+2022-06,Boilers,211
+2022-06,Heating/Hot Water,3355
+2022-06,Homeless/Shelter,7142
+2022-06,Plumbing,4338
+2022-06,Water/Leak,7668
+2022-07,Boilers,202
+2022-07,Heating/Hot Water,2812
+2022-07,Homeless/Shelter,8060
+2022-07,Plumbing,4700
+2022-07,Water/Leak,14227
+2022-08,Boilers,182
+2022-08,Heating/Hot Water,2186
+2022-08,Homeless/Shelter,8881
+2022-08,Plumbing,4817
+2022-08,Water/Leak,12397
+2022-09,Boilers,241
+2022-09,Heating/Hot Water,3167
+2022-09,Homeless/Shelter,9508
+2022-09,Plumbing,4487
+2022-09,Water/Leak,7277
+2022-10,Boilers,276
+2022-10,Heating/Hot Water,25990
+2022-10,Homeless/Shelter,9076
+2022-10,Plumbing,5013
+2022-10,Snow/Ice,1
+2022-10,Water/Leak,6362
+2022-11,Boilers,272
+2022-11,Heating/Hot Water,34195
+2022-11,Homeless/Shelter,6767
+2022-11,Plumbing,5134
+2022-11,Snow/Ice,17
+2022-11,Water/Leak,5868
+2022-12,Boilers,395
+2022-12,Heating/Hot Water,54150
+2022-12,Homeless/Shelter,3874
+2022-12,Plumbing,6626
+2022-12,Snow/Ice,290
+2022-12,Water/Leak,8623
+2023-01,Boilers,347
+2023-01,Heating/Hot Water,30314
+2023-01,Homeless/Shelter,3548
+2023-01,Plumbing,5571
+2023-01,Snow/Ice,19
+2023-01,Water/Leak,7340
+2023-02,Boilers,337
+2023-02,Heating/Hot Water,33033
+2023-02,Homeless/Shelter,2857
+2023-02,Plumbing,5472
+2023-02,Snow/Ice,46
+2023-02,Water/Leak,6413
+2023-03,Boilers,351
+2023-03,Heating/Hot Water,26636
+2023-03,Homeless/Shelter,3309
+2023-03,Plumbing,5417
+2023-03,Snow/Ice,21
+2023-03,Water/Leak,6406
+2023-04,Boilers,304
+2023-04,Heating/Hot Water,14580
+2023-04,Homeless/Shelter,4813
+2023-04,Plumbing,4683
+2023-04,Water/Leak,6536
+2023-05,Boilers,229
+2023-05,Heating/Hot Water,7109
+2023-05,Homeless/Shelter,6449
+2023-05,Plumbing,4771
+2023-05,Snow/Ice,2
+2023-05,Water/Leak,7804
+2023-06,Boilers,237
+2023-06,Heating/Hot Water,3236
+2023-06,Homeless/Shelter,7112
+2023-06,Plumbing,4714
+2023-06,Water/Leak,6847
+2023-07,Boilers,158
+2023-07,Heating/Hot Water,3292
+2023-07,Homeless/Shelter,7292
+2023-07,Plumbing,5436
+2023-07,Snow/Ice,1
+2023-07,Water/Leak,14226
+2023-08,Boilers,186
+2023-08,Heating/Hot Water,2802
+2023-08,Homeless/Shelter,8916
+2023-08,Plumbing,5538
+2023-08,Water/Leak,8585
+2023-09,Boilers,153
+2023-09,Heating/Hot Water,4433
+2023-09,Homeless/Shelter,8922
+2023-09,Plumbing,5920
+2023-09,Snow/Ice,3
+2023-09,Water/Leak,11819
+2023-10,Boilers,274
+2023-10,Heating/Hot Water,23390
+2023-10,Homeless/Shelter,8582
+2023-10,Plumbing,6976
+2023-10,Snow/Ice,2
+2023-10,Water/Leak,9861
+2023-11,Boilers,325
+2023-11,Heating/Hot Water,47482
+2023-11,Homeless/Shelter,6614
+2023-11,Plumbing,5718
+2023-11,Snow/Ice,25
+2023-11,Water/Leak,6388
+2023-12,Boilers,333
+2023-12,Heating/Hot Water,35655
+2023-12,Homeless/Shelter,4716
+2023-12,Plumbing,5927
+2023-12,Snow/Ice,77
+2023-12,Water/Leak,7623
+2024-01,Boilers,414
+2024-01,Heating/Hot Water,51604
+2024-01,Homeless/Shelter,4200
+2024-01,Plumbing,7070
+2024-01,Snow/Ice,3239
+2024-01,Water/Leak,9774
+2024-02,Boilers,308
+2024-02,Heating/Hot Water,30405
+2024-02,Homeless/Shelter,3622
+2024-02,Plumbing,5496
+2024-02,Snow/Ice,1139
+2024-02,Water/Leak,6730
+2024-03,Boilers,248
+2024-03,Heating/Hot Water,24850
+2024-03,Homeless/Shelter,4277
+2024-03,Plumbing,5699
+2024-03,Snow/Ice,10
+2024-03,Water/Leak,8034
+2024-04,Boilers,246
+2024-04,Heating/Hot Water,16221
+2024-04,Homeless/Shelter,6155
+2024-04,Plumbing,5227
+2024-04,Water/Leak,7883
+2024-05,Boilers,183
+2024-05,Heating/Hot Water,6825
+2024-05,Homeless/Shelter,7304
+2024-05,Plumbing,5241
+2024-05,Water/Leak,7059
+2024-06,Boilers,124
+2024-06,Heating/Hot Water,3514
+2024-06,Homeless/Shelter,8120
+2024-06,Plumbing,5396
+2024-06,Water/Leak,13174
+2024-07,Boilers,87
+2024-07,Heating/Hot Water,3379
+2024-07,Homeless/Shelter,8953
+2024-07,Plumbing,6041
+2024-07,Snow/Ice,6
+2024-07,Water/Leak,15230
+2024-08,Boilers,116
+2024-08,Heating/Hot Water,3105
+2024-08,Homeless/Shelter,8392
+2024-08,Plumbing,5740
+2024-08,Water/Leak,11190
+2024-09,Boilers,124
+2024-09,Heating/Hot Water,3350
+2024-09,Homeless/Shelter,10192
+2024-09,Plumbing,5453
+2024-09,Snow/Ice,1
+2024-09,Water/Leak,7556
+2024-10,Boilers,234
+2024-10,Heating/Hot Water,19705
+2024-10,Homeless/Shelter,9525
+2024-10,Plumbing,5543
+2024-10,Water/Leak,7421
+2024-11,Boilers,308
+2024-11,Heating/Hot Water,39449
+2024-11,Homeless/Shelter,7167
+2024-11,Plumbing,5489
+2024-11,Snow/Ice,2
+2024-11,Water/Leak,7773
+2024-12,Boilers,410
+2024-12,Heating/Hot Water,63208
+2024-12,Homeless/Shelter,4575
+2024-12,Plumbing,6655
+2024-12,Snow/Ice,816
+2024-12,Water/Leak,9134
+2025-01,Boilers,505
+2025-01,Heating/Hot Water,67693
+2025-01,Homeless/Shelter,3962
+2025-01,Plumbing,7662
+2025-01,Snow/Ice,5161
+2025-01,Water/Leak,10271
+2025-02,Boilers,376
+2025-02,Heating/Hot Water,40831
+2025-02,Homeless/Shelter,3565
+2025-02,Plumbing,5955
+2025-02,Snow/Ice,2817
+2025-02,Water/Leak,8193
+2025-03,Boilers,317
+2025-03,Heating/Hot Water,26322
+2025-03,Homeless/Shelter,5178
+2025-03,Plumbing,5905
+2025-03,Snow/Ice,12
+2025-03,Water/Leak,7039
+2025-04,Boilers,261
+2025-04,Heating/Hot Water,16850
+2025-04,Homeless/Shelter,6325
+2025-04,Plumbing,5567
+2025-04,Water/Leak,6309
+2025-05,Boilers,220
+2025-05,Heating/Hot Water,7473
+2025-05,Homeless/Shelter,8171
+2025-05,Plumbing,5304
+2025-05,Water/Leak,6474
+2025-06,Boilers,179
+2025-06,Heating/Hot Water,4217
+2025-06,Homeless/Shelter,8928
+2025-06,Plumbing,6422
+2025-06,Water/Leak,18062
+2025-07,Boilers,156
+2025-07,Heating/Hot Water,3008
+2025-07,Homeless/Shelter,9608
+2025-07,Plumbing,5636
+2025-07,Water/Leak,18620
+2025-08,Boilers,154
+2025-08,Heating/Hot Water,2929
+2025-08,Homeless/Shelter,9664
+2025-08,Plumbing,5032
+2025-08,Water/Leak,10252
+2025-09,Boilers,181
+2025-09,Heating/Hot Water,3595
+2025-09,Homeless/Shelter,10169
+2025-09,Plumbing,5519
+2025-09,Water/Leak,7292
+2025-10,Boilers,564
+2025-10,Heating/Hot Water,31924
+2025-10,Homeless/Shelter,8650
+2025-10,Plumbing,6550
+2025-10,Water/Leak,8643
+2025-11,Boilers,550
+2025-11,Heating/Hot Water,48052
+2025-11,Homeless/Shelter,6611
+2025-11,Plumbing,5992
+2025-11,Snow/Ice,8
+2025-11,Water/Leak,6773
+2025-12,Boilers,534
+2025-12,Heating/Hot Water,64224
+2025-12,Homeless/Shelter,4338
+2025-12,Plumbing,7099
+2025-12,Snow/Ice,8700
+2025-12,Water/Leak,7981
+2026-01,Boilers,595
+2026-01,Heating/Hot Water,80498
+2026-01,Homeless/Shelter,5682
+2026-01,Plumbing,8953
+2026-01,Snow/Ice,24079
+2026-01,Water/Leak,10814
+2026-02,Boilers,339
+2026-02,Heating/Hot Water,48859
+2026-02,Homeless/Shelter,1112
+2026-02,Plumbing,8470
+2026-02,Snow/Ice,8005
+2026-02,Water/Leak,11119
