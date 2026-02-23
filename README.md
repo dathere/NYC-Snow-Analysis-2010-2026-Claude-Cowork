@@ -4,17 +4,18 @@
 
 What do you get when you unleash [Claude Cowork](https://claude.com/product/cowork) on:
 
-* [All of NYC 311 Service Requests](https://opendata.cityofnewyork.us/311-service-requests-from-2010-to-present-updates/) covering 2010 to 2026-02-22 - **all 24.1gb with 42,873,338 rows!!!**
+* [All of NYC's 311 Service Requests](https://opendata.cityofnewyork.us/311-service-requests-from-2010-to-present-updates/) covering 2010 to 2026-02-22 - **all 24.1gb with 42,873,338 rows!!!**
 * NYC's [DCP Housing Database (Inactives Included) from 2010-2025](https://www.nyc.gov/content/planning/pages/resources/datasets/housing-project-level) with 106,358 rows and its Data Dictionary
 
 And install in Cowork:
+
 * our [qsv MCP Server](https://github.com/dathere/qsv)
 * the [US Census MCP Server](https://github.com/uscensusbureau/us-census-bureau-data-api-mcp)
 * the [Open-Meteo Weather MCP Server](https://github.com/cmer81/open-meteo-mcp)
 
 ## The Prompt
 
-```
+```text
 Can you analyze the NYC 311 file as well as the Housing Database (consult the
 Data Dictionary PDF) and retrieve from the web all the snowstorms in NYC
 since 2010, the current weather details during the snowstorm, NYC news
@@ -35,7 +36,7 @@ The full transcript of the Cowork session is available [here](./NYC%20Snow%20Ana
 
 ## Follow-up Question
 
-```
+```text
 Can you also do an extended temporal analysis on related snow-related
 complaint types (e.g. heating, shelter, frozen pipes, etc.) over the same period
 using both datasets, leveraging historical weather data and the Census?
