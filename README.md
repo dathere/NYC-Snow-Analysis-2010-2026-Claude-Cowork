@@ -58,3 +58,7 @@ BUT, how can we be sure the insights are valid? How can we verify the accuracy o
 That's why we call it **_"Accelerated Civic Intelligence (ACI)"_** - it's not about replacing human analysts, but about augmenting their capabilities and accelerating the process of generating insights that can drive positive change in our cities.
 
 If "computers are the bicycle for the mind", then AI tools like Claude Cowork are more like an Iron Man suit: they dramatically extend our reach, strength, and speed. But even the most advanced suit still needs a capable pilot. The technology can amplify our abilities — it’s human judgment, experience, and civic responsibility that determine where we go and why.
+
+---
+
+Github Repo: https://github.com/dathere/NYC-Snow-Analysis-2010-2026-Claude-Cowork
