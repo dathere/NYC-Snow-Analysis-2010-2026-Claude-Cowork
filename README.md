@@ -27,7 +27,7 @@ interesting insights that can be shared with the current administration?
 
 And 34 minutes later, we get a comprehensive analysis of NYC's snow response over the last 16 years, complete with data visualizations, insights, and recommendations for future improvements:
 
-* [NYC_Snow_Response_Analysis.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dathere/NYC-Snow-Analysis-2010-2026-Claude-Cowork/refs/heads/main/reports/NYC_Snow_Response_Analysis.html)
+* [NYC_Snow_Response_Analysis.html](./reports/NYC_Snow_Response_Analysis.html)
 * [NYC_Snow_Response_Analysis.docx](./reports/NYC_Snow_Response_Analysis.docx) ([pdf](./reports/NYC_Snow_Response_Analysis-docx.pdf))
 * [NYC_Snow_Response_Briefing.pptx](./reports/NYC_Snow_Response_Briefing.pptx) ([pdf](./reports/NYC_Snow_Response_Briefing-slides.pdf))
 
@@ -43,7 +43,7 @@ using both datasets, leveraging historical weather data and the Census?
 
 32 minutes later, we get these additional insights and visualizations:
 
-* [NYC_Snow_Adjacent_Analysis.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/dathere/NYC-Snow-Analysis-2010-2026-Claude-Cowork/refs/heads/main/reports/NYC_Snow_Adjacent_Analysis.html)
+* [NYC_Snow_Adjacent_Analysis.html](./reports/NYC_Snow_Adjacent_Analysis.html)
 * [NYC_Snow_Adjacent_Analysis.docx](./reports/NYC_Snow_Adjacent_Analysis.docx) ([pdf](./reports/NYC_Snow_Adjacent_Analysis-docx.pdf))
 * [NYC_Snow_Adjacent_Briefing.pptx](./reports/NYC_Snow_Adjacent_Briefing.pptx) ([pdf](./reports/NYC_Snow_Adjacent_Briefing-slides.pdf))
 
