@@ -61,4 +61,5 @@ If "computers are the bicycle for the mind", then AI tools like Claude Cowork ar
 
 ---
 
-Github Repo: https://github.com/dathere/NYC-Snow-Analysis-2010-2026-Claude-Cowork
+Github Repo: [https://github.com/dathere/NYC-Snow-Analysis-2010-2026-Claude-Cowork](https://github.com/dathere/NYC-Snow-Analysis-2010-2026-Claude-Cowork)<br>
+Github Pages: [https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/](https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/)
