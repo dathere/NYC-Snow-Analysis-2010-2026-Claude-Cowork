@@ -74,7 +74,7 @@ LinkedIn Post: [https://www.linkedin.com/posts/joelnatividad_nyc-snow-analysis-2
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
-        data-theme="preferred_color_scheme"
+        data-theme="light_protanopia"
         data-lang="en"
         data-loading="lazy"
         crossorigin="anonymous"
