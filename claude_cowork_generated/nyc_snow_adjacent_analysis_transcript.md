@@ -1,3 +1,13 @@
+# Claude Cowork - NYC Snow Adjacent Analysis (2010-2026)
+
+## Transcript - 2026-02-26 12:12-12:36 PM EST
+
+```text
+Can you also do an extended temporal analysis on related snow-related
+complaint types (e.g. heating, shelter, frozen pipes, etc.) over the same period
+using both datasets, leveraging historical weather data and the Census?
+```
+
 Let me start by identifying all snow-adjacent complaint types in the 311 dataset. I need to find the data files and explore the complaint type taxonomy:
 
 The qsv tool uses the host path. Let me use the simple filenames:

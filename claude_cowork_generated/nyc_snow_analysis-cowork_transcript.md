@@ -15,7 +15,7 @@ HousingDB_post2010_inactive_included.csv — 59.83 MB, last modified 2025-09-22
 
 That's a massive 311 dataset! Would you like to do anything with these files?
 
-```
+```text
 Can you analyze the NYC 311 file as well as the Housing Database (consult the
 Data Dictionary PDF) and retrieve from the web all the snowstorms in NYC
 since 2010, the current weather details during the snowstorm, NYC news
