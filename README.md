@@ -42,7 +42,7 @@ complaint types (e.g. heating, shelter, frozen pipes, etc.) over the same period
 using both datasets, leveraging historical weather data and the Census?
 ```
 
-32 minutes later, we get these additional insights and visualizations:
+24 minutes later, we get these additional insights and visualizations:
 
 * [NYC_Snow_Adjacent_Analysis.html](./reports/NYC_Snow_Adjacent_Analysis.html)
 * [NYC_Snow_Adjacent_Analysis.docx](./reports/NYC_Snow_Adjacent_Analysis.docx) ([pdf](./reports/NYC_Snow_Adjacent_Analysis-docx.pdf))
