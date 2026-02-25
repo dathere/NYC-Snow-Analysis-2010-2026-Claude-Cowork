@@ -61,7 +61,8 @@ That's why we call it **_"Accelerated Civic Intelligence (ACI)"_** - it's not ab
 IMHO, if ["computers are the bicycle for our minds"](https://www.themarginalian.org/2011/12/21/steve-jobs-bicycle-for-the-mind-1990/), then AI tools like Claude Cowork are more like an Iron Man suit: they dramatically extend our reach, strength, and speed. But even the most advanced suit still needs a capable pilot. The technology can amplify our abilities — it’s human judgment, experience, and civic responsibility that determine where we go and why.
 
 > ℹ️ **NOTE:**  
-> This is our second experiment in the **Accelerated Civic Intelligence (ACI)** series. The first one using Pittsburgh's Parking Data and Claude Desktop can be found here: [https://dathere.com/2026/01/the-peoples-api-is-finally-here/]. Stay tuned for more experiments and insights on how AI can help us build smarter, more responsive cities.
+> This is our second experiment in the **Accelerated Civic Intelligence (ACI)** series. The first one using Pittsburgh's Parking Data and Claude Desktop can be found here: [https://dathere.com/2026/01/the-peoples-api-is-finally-here/](https://dathere.com/2026/01/the-peoples-api-is-finally-here/).  
+> Stay tuned for more experiments and insights on how AI can help us build smarter, more responsive cities.
 
 > ⚠️ **WARNING:**  
 > If you're seeing "Error loading page" errors on the links above, this README is designed to be viewed on GitHub Pages, where Markdown files are rendered as HTML with proper formatting and working links. View the full report here: [https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/](https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/)
