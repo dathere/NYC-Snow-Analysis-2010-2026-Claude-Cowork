@@ -32,7 +32,7 @@ interesting insights that can be shared with the current administration?
 * [NYC_Snow_Response_Analysis.docx](./reports/NYC_Snow_Response_Analysis.docx) ([pdf](./reports/NYC_Snow_Response_Analysis-docx.pdf))
 * [NYC_Snow_Response_Briefing.pptx](./reports/NYC_Snow_Response_Briefing.pptx) ([pdf](./reports/NYC_Snow_Response_Briefing-slides.pdf))
 
-The full transcript of the Cowork session is available [here](./claude_cowork_generated/nyc_snow_analysis-cowork_transcript.html).
+The Cowork session transcript to produce these reports is available [here](./claude_cowork_generated/nyc_snow_analysis-cowork_transcript.html).
 
 ## Follow-up Question
 
@@ -47,6 +47,8 @@ using both datasets, leveraging historical weather data and the Census?
 * [NYC_Snow_Adjacent_Analysis.html](./reports/NYC_Snow_Adjacent_Analysis.html)
 * [NYC_Snow_Adjacent_Analysis.docx](./reports/NYC_Snow_Adjacent_Analysis.docx) ([pdf](./reports/NYC_Snow_Adjacent_Analysis-docx.pdf))
 * [NYC_Snow_Adjacent_Briefing.pptx](./reports/NYC_Snow_Adjacent_Briefing.pptx) ([pdf](./reports/NYC_Snow_Adjacent_Briefing-slides.pdf))
+
+The Cowork session transcript for the follow-up question is available [here](./claude_cowork_generated/nyc_snow_analysis_followup-cowork_transcript.html).
 
 ## Conclusion
 
