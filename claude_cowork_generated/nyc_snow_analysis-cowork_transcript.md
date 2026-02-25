@@ -56,7 +56,7 @@ Now I have the snow complaint types. Let me now extract the full detailed snow d
 
 Incredible data! I can see clear spikes during every major storm. Now let me get the Housing DB profile, weather data, and start reading the skills for the deliverables.
 
-[**_COMPACTION OCCURS HERE_**](claude_cowork_generated/COMPACTION.md)
+[**_COMPACTION OCCURS HERE_**](nyc_snow_analysis_COMPACTION.md)
 
 Let me continue by fixing the Housing DB query and retrieving historical weather data in parallel.
 

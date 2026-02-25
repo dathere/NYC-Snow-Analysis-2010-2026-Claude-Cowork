@@ -32,7 +32,7 @@ interesting insights that can be shared with the current administration?
 * [NYC_Snow_Response_Analysis.docx](./reports/NYC_Snow_Response_Analysis.docx) ([pdf](./reports/NYC_Snow_Response_Analysis-docx.pdf))
 * [NYC_Snow_Response_Briefing.pptx](./reports/NYC_Snow_Response_Briefing.pptx) ([pdf](./reports/NYC_Snow_Response_Briefing-slides.pdf))
 
-The full transcript of the Cowork session is available [here](./NYC%20Snow%20Analysis%20-%20Cowork%20Transcript.html).
+The full transcript of the Cowork session is available [here](./claude_cowork_generated/nyc_snow_analysis-cowork_transcript.html).
 
 ## Follow-up Question
 
