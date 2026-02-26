@@ -65,7 +65,7 @@ IMHO, if ["computers are the bicycle for our minds"](https://www.themarginalian.
 > Stay tuned for more experiments and insights on how AI can help us build smarter, more responsive cities.
 
 > ⚠️ **WARNING:**  
-> If you're seeing "Error loading page" errors on the links above, [this README is designed to be viewed on GitHub Pages](https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/), where Markdown files are rendered as HTML with proper formatting and working links.
+> If you're seeing "Error loading page" errors on the links above, [this README is designed to be viewed on GitHub Pages](https://dathere.github.io/NYC-Snow-Analysis-2010-2026-Claude-Cowork/).
 
 ---
 
