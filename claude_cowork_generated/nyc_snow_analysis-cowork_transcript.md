@@ -56,7 +56,7 @@ Now I have the snow complaint types. Let me now extract the full detailed snow d
 
 Incredible data! I can see clear spikes during every major storm. Now let me get the Housing DB profile, weather data, and start reading the skills for the deliverables.
 
-[**_COMPACTION OCCURS HERE_**](nyc_snow_analysis_compaction.md)
+[**_COMPACTION OCCURS HERE_**](nyc_snow_analysis_compaction.html)
 
 Let me continue by fixing the Housing DB query and retrieving historical weather data in parallel.
 
@@ -217,7 +217,7 @@ The analysis integrates six data sources (NYC 311 at 42.8M records, Housing DB a
 
 * docx (built-in)
 * pptx (built-in)
-* [genai-disclaimer](../skills/genai-disclaimer/SKILL.md) (custom skill)
+* [genai-disclaimer](../skills/genai-disclaimer/SKILL.html) (custom skill)
 
 Context
 This is the transcript of a coworking session with Claude, where we analyzed the NYC 311 dataset and Housing Database to study the city's response to snowstorms from 2010 to 2026. We retrieved snowstorm data, historical weather details, news coverage, and enriched it with Census data to generate insights for the current administration. The final deliverables include an interactive HTML report, a Word document, and a PowerPoint briefing deck.

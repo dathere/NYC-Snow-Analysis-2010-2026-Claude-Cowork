@@ -51,7 +51,7 @@ It saved to the temp location again, not the testmcp2 path. The output parameter
 Now I have clean aggregated data. Let me now pull historical weather data for the full period:
 I'll pull daily temperature and snowfall data for NYC (Central Park) from 2010-2026. Let me get this in two calls to stay within API limits:
 
-[**_FIRST COMPACTION OCCURS HERE_**](nyc_snow_adjacent_analysis-compaction1.md)
+[**_FIRST COMPACTION OCCURS HERE_**](nyc_snow_adjacent_analysis-compaction1.html)
 
 I'll continue right where we left off — parsing the weather data and moving into the correlation analysis. Let me read the weather data files first.
 
@@ -79,7 +79,7 @@ Good, I have the skill documentation. Let me now create the DOCX report using do
 
 Both packages are installed. Let me create the DOCX script:The file doesn't exist yet, let me use Write directly:
 
-[**_SECOND COMPACTION OCCURS HERE_**](nyc_snow_adjacent_analysis-compaction2.md)
+[**_SECOND COMPACTION OCCURS HERE_**](nyc_snow_adjacent_analysis-compaction2.html)
 
 I'll continue right where we left off — executing the DOCX generation script, then moving on to the PPTX and verification steps.
 
