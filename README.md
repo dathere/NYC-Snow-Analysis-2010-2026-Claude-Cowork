@@ -2,6 +2,8 @@
 
 ![NYC Snow Response Analysis](./images/snow-related-311-complaints-2010-26.png)
 
+> On the morning of February 23, 2026, at the height of Winter Storm Hernando dumping 20 inches of snow in the Metro NYC area, I wondered how the City's response to snow events has evolved over the years. With the recent release of Cowork support of our [qsv MCP server](https://github.com/dathere/qsv/releases/tag/16.1.0), I decided to put it to the test.
+
 What do you get when you unleash [Claude Cowork](https://claude.com/product/cowork) on:
 
 * [All of NYC's 311 Service Requests](https://opendata.cityofnewyork.us/311-service-requests-from-2010-to-present-updates/) covering 2010 to 2026-02-22 - **all 24.1gb with 42,873,338 rows!!!**
